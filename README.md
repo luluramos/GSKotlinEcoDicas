@@ -10,6 +10,9 @@ O **EcoDicas** é um aplicativo simples e intuitivo que apresenta dicas prática
 - **Pesquisar Dicas**: Utilize a barra de busca para encontrar dicas específicas por palavras-chave.
 - **Rodapé Personalizado**: Os nomes do grupo são exibidos no rodapé do aplicativo.
 
+## Grupo
+- Luana Ramos RM94670
+- Marianne Nocce RM93255
 ## Screenshots
 
 ### Tela com lista de dicas:
