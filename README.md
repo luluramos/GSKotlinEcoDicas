@@ -16,11 +16,13 @@ O **EcoDicas** é um aplicativo simples e intuitivo que apresenta dicas prática
 ## Screenshots
 
 ### Tela com lista de dicas:
-[![image](https://github.com/user-attachments/assets/1fdd9985-d06a-469e-9642-74faec530733)](https://github.com/luluramos/GSKotlinEcoDicas)
+![foto](https://github.com/user-attachments/assets/ae263861-2faa-42bc-b9a3-a0e22b7af9c7)
+
 
 
 ### Pesquisa funcionando por palavraschave:
-[![image](https://github.com/user-attachments/assets/dc4d4cb2-560a-4990-86b2-2ab0c92dbb22)](https://github.com/luluramos/GSKotlinEcoDicas)
+![foto1](https://github.com/user-attachments/assets/111823c9-0e32-4d70-a99d-6e82ce9e4399)
+
 
 
 ---
